@@ -1,0 +1,129 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Ehfaaz.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Ehfaaz.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\css\\css1.css",
+      "PackagePath": "staticwebassets\\css\\css1.css"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\css\\css10.css",
+      "PackagePath": "staticwebassets\\css\\css10.css"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\css\\css11.css",
+      "PackagePath": "staticwebassets\\css\\css11.css"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\css\\css12.css",
+      "PackagePath": "staticwebassets\\css\\css12.css"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\css\\css2.css",
+      "PackagePath": "staticwebassets\\css\\css2.css"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\css\\css3.css",
+      "PackagePath": "staticwebassets\\css\\css3.css"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\css\\css4.css",
+      "PackagePath": "staticwebassets\\css\\css4.css"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\css\\css5.css",
+      "PackagePath": "staticwebassets\\css\\css5.css"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\css\\css6.css",
+      "PackagePath": "staticwebassets\\css\\css6.css"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\css\\css7.css",
+      "PackagePath": "staticwebassets\\css\\css7.css"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\css\\css8.css",
+      "PackagePath": "staticwebassets\\css\\css8.css"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\css\\css9.css",
+      "PackagePath": "staticwebassets\\css\\css9.css"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\js\\js1.js",
+      "PackagePath": "staticwebassets\\js\\js1.js"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\js\\js10.js",
+      "PackagePath": "staticwebassets\\js\\js10.js"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\js\\js11.js",
+      "PackagePath": "staticwebassets\\js\\js11.js"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\js\\js12.js",
+      "PackagePath": "staticwebassets\\js\\js12.js"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\js\\js2.js",
+      "PackagePath": "staticwebassets\\js\\js2.js"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\js\\js3.js",
+      "PackagePath": "staticwebassets\\js\\js3.js"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\js\\js4.js",
+      "PackagePath": "staticwebassets\\js\\js4.js"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\js\\js5.js",
+      "PackagePath": "staticwebassets\\js\\js5.js"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\js\\js6.js",
+      "PackagePath": "staticwebassets\\js\\js6.js"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\js\\js7.js",
+      "PackagePath": "staticwebassets\\js\\js7.js"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\js\\js8.js",
+      "PackagePath": "staticwebassets\\js\\js8.js"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\js\\js9.js",
+      "PackagePath": "staticwebassets\\js\\js9.js"
+    },
+    {
+      "Id": "C:\\Users\\m_243\\OneDrive\\Desktop\\microsoft documentation\\.net core\\Ehfaaz\\Ehfaaz\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Ehfaaz.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Ehfaaz.props",
+      "PackagePath": "build\\Ehfaaz.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Ehfaaz.props",
+      "PackagePath": "buildMultiTargeting\\Ehfaaz.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Ehfaaz.props",
+      "PackagePath": "buildTransitive\\Ehfaaz.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
